@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hppod/nodejs-rocketseat/issues"
   },
-  "homepage": "https://github.com/hppod/nodejs-rocketseat#readme"
+  "homepage": "https://github.com/hppod/nodejs-rocketseat#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
