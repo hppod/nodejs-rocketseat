@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/hppod/nodejs-rocketseat#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.16.4",
     "mongoose": "^5.3.13",
     "mongoose-paginate": "^5.0.3",
